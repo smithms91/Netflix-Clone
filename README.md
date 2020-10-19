@@ -1,5 +1,4 @@
 # Netflix Clone
-[Live Demo](http://netflix.fishermediasolutions.com)
 
 I followed a 10 hour tutorial for this project which can be found here: https://www.youtube.com/watch?v=x_EEwGe-a9o
 
